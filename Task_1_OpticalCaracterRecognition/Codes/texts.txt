@@ -1,0 +1,16 @@
+Character Resized into 100
+Scanned Handwritten Character
+by 100 Pixels
+Binarization; Skeletonization, and Edge Detection
+Preprocessing
+Character Image after Slant
+Slant Angle Removal of Character Image
+Correction
+Multiresolution Using Wavelet Transform
+Feature Extraction
+Preparation of Pattern Classes and Mean Vector
+Pattern Classes and Mean Vector
+Minimum Distance Classifier
+Euclidean Distance Metric
+Recognition of Input handwritten character
+Output
